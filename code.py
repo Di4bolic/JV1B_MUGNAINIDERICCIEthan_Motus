@@ -1,6 +1,5 @@
 # Importations
 
-import time
 import random
 from colorama import Fore, Back, Style
 
